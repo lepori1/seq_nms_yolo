@@ -1,1 +1,3 @@
-# seq_nms_yolo
+# Seq_nms_YOLO
+
+## Introduction
