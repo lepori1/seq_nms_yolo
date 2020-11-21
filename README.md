@@ -5,9 +5,7 @@
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-```
-Da un ejemplo
-```
+```Da un ejemplo```
 
 ### Instalación 🔧
 
