@@ -57,10 +57,10 @@ Using a linux terminal
   - `cp libdarknet.so env/lib/`
   - `cp libdarknet.a env/lib/`
  
-12. Run `yolo_seqnms.py` to generate output images in `video/output`:
+13. Run `yolo_seqnms.py` to generate output images in `video/output`:
   - `python yolo_seqnms.py`
 
-13. If you want to reconstruct a video from these output images, you can go to the video folder and run `img2video.py`:
+14. If you want to reconstruct a video from these output images, you can go to the video folder and run `img2video.py`:
   - `cd video`
   - `python img2video.py -i output`
 
